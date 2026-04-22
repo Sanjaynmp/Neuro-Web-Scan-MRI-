@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+bcrypt
+python-jose[cryptography]
+python-multipart
+torch
+transformers
+pillow
+numpy
+pytest
+httpx
+python-dotenv
